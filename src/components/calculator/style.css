@@ -1,0 +1,9 @@
+.container {
+  width: 300px;
+    height: 440px;
+    border: 1px solid #d0d0d0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}

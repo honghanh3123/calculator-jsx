@@ -1,0 +1,17 @@
+.screen {
+  width: 280px;
+  height: 100px;
+  border: 1px solid #000;
+  border-radius: 20px;
+  position: absolute;
+  top: 13%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.screen p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
